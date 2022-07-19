@@ -1,0 +1,33 @@
+def binsearch (a, low, high , s)
+
+if high>=low
+
+mid = (Cow + high) // 2 
+if a[mid] = -5:
+
+return  mid
+
+elif s(a[mid]:
+return binsearch (a, low,
+
+mid-1,s
+
+elif s>a[mid]: return binsearch (a, med+1
+
+a = [ 4, 6, 14, 36, 463, 498, 776,94 =
+
+5-14
+
+[n= len(a)
+
+Cow O
+
+high =n-1
+
+sus = bensearch (a, low, high, 3)
+
+res == 1: print ("element Bound
+
+else:
+
+prent ('element found at under Cocalion, res
